@@ -1,0 +1,22 @@
+@extends('admin.share.master')
+@section('title')
+
+@endsection
+@section('js')
+    <script>
+        new Vue({
+            el      :   '#app',
+            data    :   {
+
+            },
+            created()   {
+
+            },
+            methods :   {
+
+            },
+        });
+    </script>
+@endsection
+
+//modal
